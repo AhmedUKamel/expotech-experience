@@ -9,6 +9,7 @@ This repository provides a detailed overview of my professional work experience 
   - [Introduction](#introduction)
   - [Professional Summary](#professional-summary)
   - [Projects](#projects)
+    - [Ship Smarter](#ship-smarter)
     - [Mail Sender](#mail-sender)
     - [Vitaparapharma](#vitaparapharma)
 
@@ -21,6 +22,26 @@ This repository serves as a portfolio of my work experience, detailing the key p
 I am Ahmed Kamel, a backend developer with extensive experience in developing robust, scalable, and high-performance applications. My expertise lies in Java, Spring Framework, MySQL, and a range of other technologies.
 
 ## Projects
+
+### Ship Smarter
+
+**Overview**: Ship Smarter is an extension for the Vitaparapharma e-commerce platform, designed to enhance order shipping services for multiple e-commerce platforms. This integration streamlines logistics and improves customer satisfaction by providing efficient and reliable shipping solutions.
+
+**Status**: Paused (Pending EduAI Completion)
+
+**Development Period**: April 2024 - Current
+
+**Key Contributions**:
+
+- Developed a shipping management system integrated with the Vitaparapharma e-commerce platform.
+- Implemented features for handling orders across multiple e-commerce platforms, ensuring seamless logistics.
+- Designed and integrated APIs for real-time tracking and shipping updates.
+
+**Technologies Used**: Java, Spring Boot, Spring Data JPA, MySQL, RESTful APIs, Docker, API Integration
+
+**Related Links**:
+
+- [APIs Deployment Link](https://api.shipsmarter.net/)
 
 ### Mail Sender
 
