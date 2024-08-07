@@ -9,6 +9,7 @@ This repository provides a detailed overview of my professional work experience 
   - [Introduction](#introduction)
   - [Professional Summary](#professional-summary)
   - [Projects](#projects)
+    - [Mail Sender](#mail-sender)
     - [Vitaparapharma](#vitaparapharma)
 
 ## Introduction
@@ -20,6 +21,26 @@ This repository serves as a portfolio of my work experience, detailing the key p
 I am Ahmed Kamel, a backend developer with extensive experience in developing robust, scalable, and high-performance applications. My expertise lies in Java, Spring Framework, MySQL, and a range of other technologies.
 
 ## Projects
+
+### Mail Sender
+
+**Overview**: Developed an application similar to email.js that seamlessly sends emails across various applications. Mail Sender caters to individual user preferences and ensures reliable communication between diverse platforms.
+
+**Status**: Completed
+
+**Development Period**: February 2024 - March 2024
+
+**Key Contributions**:
+
+- Designed and implemented the core backend services using Java and Spring Boot.
+- Developed a robust email sending service with support for multiple email providers.
+- Ensured secure email transmission using TLS encryption.
+
+**Technologies Used**: Java, Spring Boot, RESTful APIs, Docker, TLS, Java Mail Sender, SMTP
+
+**Related Links**:
+
+- [APIs Deployment Link](https://email.vitaparapharma.com/)
 
 ### Vitaparapharma
 
