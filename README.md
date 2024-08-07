@@ -9,6 +9,7 @@ This repository provides a detailed overview of my professional work experience 
   - [Introduction](#introduction)
   - [Professional Summary](#professional-summary)
   - [Projects](#projects)
+    - [EDU AI](#edu-ai)
     - [Ship Smarter](#ship-smarter)
     - [Mail Sender](#mail-sender)
     - [Vitaparapharma](#vitaparapharma)
@@ -22,6 +23,28 @@ This repository serves as a portfolio of my work experience, detailing the key p
 I am Ahmed Kamel, a backend developer with extensive experience in developing robust, scalable, and high-performance applications. My expertise lies in Java, Spring Framework, MySQL, and a range of other technologies.
 
 ## Projects
+
+### EDU AI
+
+**Overview**: EDU AI is an AI-integrated management system designed for educational institutions. It provides streamlined administrative functions and intelligent decision-making capabilities across various levels of school management. The system consists of multiple applications catering to different user roles, including web and mobile applications for comprehensive educational management.
+
+**Status**: Ongoing Development
+
+**Development Period**: May 2024 - Current
+
+**Key Contributions**:
+
+- **Super Admin Web Application**: Developed a comprehensive web application for super admins to manage all schools, including centralized control and analytics.
+- **School Admin Web Application**: Created a web application for school admins and employees, offering tools for day-to-day operations and administrative tasks.
+- **Teacher Mobile Application**: Designed a mobile application for teachers to facilitate class management, lesson planning, and communication with students and parents.
+- **Parent Mobile Application**: Developed a mobile application for parents to monitor their children’s progress, communicate with teachers, and access school-related information.
+- **Student Mobile Application**: Implemented a mobile application for students to track their assignments, grades, and school activities.
+
+**Technologies Used**: Java, Spring Boot, Spring Data JPA, MySQL, RESTful APIs, AI Integration, Docker, WebSockets
+
+**Related Links**:
+
+- [APIs Deployment Link](https://eduai.vitaparapharma.com/)
 
 ### Ship Smarter
 
